@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_eventos" value="name:ev_id;datatype:int,name:alias;datatype:string,name:nombre;datatype:string,name:descripcion;datatype:string,name:fecha;datatype:date,name:precio;datatype:int,name:ubicacion;datatype:string,name:direccion;datatype:string,name:capacidad;datatype:int,name:stock_venta;datatype:int,name:vendidos;datatype:int,name:destacado;datatype:string" />
+</info>
